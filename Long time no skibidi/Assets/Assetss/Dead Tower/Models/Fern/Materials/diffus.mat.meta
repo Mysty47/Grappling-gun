@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3cde7241ca9781438aaaddada6d2d37
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1817
+  packageName: Dead Tower Scene
+  packageVersion: 1.0
+  assetPath: Assets/Models/Fern/Materials/diffus.mat
+  uploadId: 25462

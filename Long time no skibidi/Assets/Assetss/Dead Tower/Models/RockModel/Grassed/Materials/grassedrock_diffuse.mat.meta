@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1753f38829eaa16499ae460b25a9f557
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1817
+  packageName: Dead Tower Scene
+  packageVersion: 1.0
+  assetPath: Assets/Models/RockModel/Grassed/Materials/grassedrock_diffuse.mat
+  uploadId: 25462

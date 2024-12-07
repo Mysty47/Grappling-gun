@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d4133d5d30b644bd87802a347eaccbe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1817
+  packageName: Dead Tower Scene
+  packageVersion: 1.0
+  assetPath: Assets/Standard Assets/Character Controllers/First Person Controller.prefab
+  uploadId: 25462

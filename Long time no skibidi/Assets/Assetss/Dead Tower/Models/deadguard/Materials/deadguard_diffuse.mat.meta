@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b25c42ca7aa13143855ec28657a141a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1817
+  packageName: Dead Tower Scene
+  packageVersion: 1.0
+  assetPath: Assets/Models/deadguard/Materials/deadguard_diffuse.mat
+  uploadId: 25462

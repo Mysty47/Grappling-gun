@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{72c53948-d617-ab04-c70e-17f6bd16da53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{da5dab5d-1221-a91b-e02a-9d36c3998d90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Crosshairs.Editor", "OccaSoftware.Crosshairs.Editor.csproj", "{9b11241b-57b2-b087-4033-32fa31cc3c13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72c53948-d617-ab04-c70e-17f6bd16da53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72c53948-d617-ab04-c70e-17f6bd16da53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{da5dab5d-1221-a91b-e02a-9d36c3998d90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{da5dab5d-1221-a91b-e02a-9d36c3998d90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9b11241b-57b2-b087-4033-32fa31cc3c13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9b11241b-57b2-b087-4033-32fa31cc3c13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
